@@ -15,9 +15,9 @@ In this project, I am trying to Analyze and visualize the data and eventually ma
 
 - ### Data cleaning 
 
-  - Remove NULL Values 
-  - Remove duplicate values 
+  - Remove NULL Values  
   - Remove wrong entries 
+  - Remove Unwanted Columns
   - Make proper Table format
 
 - ### Define KPIs 
